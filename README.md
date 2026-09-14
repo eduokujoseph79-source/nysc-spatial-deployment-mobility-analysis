@@ -217,14 +217,9 @@ The interactive Power BI dashboard presents the major findings and allows users 
 
 ### Project Summary
 
-[View the One-Page Project Summary](Documentation/Project_Summary.pdf)
+[View the One-Page Project Summary](Executive_Insight_Summary.pdf)
 
 ### Dashboard PDF
 
 [View the Dashboard PDF](NYSC_Deployment_Mobility_Dashboard.pdf.pdf)
 
----
-
-## Project Structure
-
-[View the Project Summary](Executive_Insight_Summary.pdf)
