@@ -217,7 +217,7 @@ The interactive Power BI dashboard presents key findings and lets users explore 
 
 ### Project Summary
 
-[View Executive Insight Summary](Project_Summary.pdf)
+[View Executive Insight Summary](Executive%20Insight%20Summary.pdf)
 
 ### Dashboard PDF
 
