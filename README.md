@@ -218,6 +218,7 @@ The interactive Power BI dashboard presents key findings and lets users explore 
 ### Project Summary
 
 [View Executive Insight Summary](Project_Summary.pdf)
+
 ### Dashboard PDF
 
 [View the Dashboard PDF](NYSC_Deployment_Mobility_Dashboard.pdf.pdf)
