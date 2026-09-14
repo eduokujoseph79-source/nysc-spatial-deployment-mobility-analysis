@@ -193,7 +193,7 @@ Security, road accessibility, distance, and infrastructure should be considered 
 
 ## Project Impact
 
-This project demonstrates how data analytics can be used to transform deployment records into actionable insights.
+This project shows how data analytics can turn deployment records into actionable insights.
 
 The analysis can help stakeholders better understand:
 
@@ -207,7 +207,7 @@ This creates a foundation for more informed deployment planning and resource all
 
 ### Dashboard
 
-The interactive Power BI dashboard presents the major findings and allows users to explore deployment and mobility patterns.
+The interactive Power BI dashboard presents key findings and lets users explore deployment and mobility patterns.
 
 ### Dashboard Screenshots
 
@@ -217,7 +217,7 @@ The interactive Power BI dashboard presents the major findings and allows users 
 
 ### Project Summary
 
-[View the One-Page Project Summary](Executive_Insight_Summary.pdf)
+[View the One Project Summary](Executive_Insight_Summary.pdf)
 
 ### Dashboard PDF
 
